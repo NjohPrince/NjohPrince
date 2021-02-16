@@ -4,6 +4,3 @@
 - 🔭 I’m currently working on my Web-Develoment and Mobile App Skills
 - 🌱 I’m currently learning reactjs, nodejs
 - ⚡ Fun fact: ... I play with Code, turn to eat alot😅.
-
-- Get to me...
-[/https://www.twitter.com/NjohNoh]
