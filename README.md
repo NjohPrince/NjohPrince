@@ -9,7 +9,7 @@
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NjohPrince&layout=compact&hide=html,css&theme=dark)](https://github.com/NjohPrince/github-readme-stats)
 
-<h3 align="left">??&nbsp;Tools Used:</h3>
+<h3 align="left">&nbsp;Tools Used:</h3>
 <p align="left">
    <a href="https://reactjs.org/" target="_blank">
     <img
