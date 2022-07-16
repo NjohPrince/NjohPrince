@@ -1,5 +1,6 @@
 ### Hi there 👋 Am Njoh Noh Prince Junior
 
+![Group 1](https://user-images.githubusercontent.com/60319809/179373883-a9877934-da3f-41a2-b483-ac42eb2a7ebd.png)
 
 - Frontend Engineer
 - Backend Developer
